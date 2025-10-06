@@ -1,0 +1,62 @@
+@font-face {
+    font-family: lucida sans;
+    font-style: normal;
+    font-weight: 400;
+    src: local('Lucida Sans'), url(../lucida-woff/LSANS.woff) format('woff')
+}
+
+@font-face {
+    font-family: lucida sans;
+    font-style: italic;
+    font-weight: 400;
+    src: local('Lucida Sans'), url(../lucida-woff/LSANSI.woff) format('woff')
+}
+
+@font-face {
+    font-family: lucida sans;
+    font-style: normal;
+    font-weight: 600;
+    src: local('Lucida Sans'), url(../lucida-woff/LSANSD.woff) format('woff')
+}
+
+@font-face {
+    font-family: lucida sans;
+    font-style: italic;
+    font-weight: 600;
+    src: local('Lucida Sans'), url(../lucida-woff/LSANSDI.woff) format('woff')
+}
+
+@font-face {
+    font-family: lucida sans typewriter;
+    font-style: normal;
+    font-weight: 400;
+    src: local('Lucida Sans Typewriter'), url(../lucida-woff/LTYPE.woff) format('woff')
+}
+
+@font-face {
+    font-family: lucida sans unicode;
+    font-style: normal;
+    font-weight: 400;
+    src: local('Lucida Sans Unicode'), url(../lucida-woff/l_10646.woff) format('woff')
+}
+
+@font-face {
+    font-family: lucida sans typewriter;
+    font-style: italic;
+    font-weight: 400;
+    src: local('Lucida Sans Typewriter'), url(../lucida-woff/one.woff) format('woff')
+}
+
+@font-face {
+    font-family: lucida sans typewriter;
+    font-style: normal;
+    font-weight: 600;
+    src: local('Lucida Sans Typewriter'), url(../lucida-woff/two.woff) format('woff')
+}
+
+@font-face {
+    font-family: lucida sans typewriter;
+    font-style: italic;
+    font-weight: 600;
+    src: local('Lucida Sans Typewriter'), url(../lucida-woff/three.woff) format('woff')
+}
